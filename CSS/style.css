@@ -1,0 +1,115 @@
+a, a:hover {
+     color: black;
+     text-decoration: none;
+}
+
+.footer-item a, .footer-item a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.logo {
+    height: 50px;
+}
+
+.logo2 {
+    height: 100px;
+}
+
+
+.game-name
+{
+    margin-bottom: auto;
+}
+
+.kind {
+    margin-top: 10px;
+}
+
+.line {
+    border-width: thin;
+    border-color: rgb(155, 147, 147);
+    border-style: solid;
+
+}
+
+.wrapper{
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.game-kind {
+    margin: 40px 0;
+}
+
+.app{
+    margin: 100px 0;
+
+}
+
+.footer-item{
+    margin: 15px 0;
+}
+
+.footer, .footer-nav {
+    background: black;
+}
+
+
+.col-lg-6 a{
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    min-width: 1500px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.search {
+    background-color: rgb(77, 73, 73);
+    padding:100px 0px;
+    margin: 80px 0;
+}
+
+.search-bar {
+    width: 500px;
+    border-radius: 30px;
+    margin: 0 10px;
+}
+
+.out-link
+{
+    margin: 10px 15px;
+}
+
+.app-select{
+    margin:50px ;
+}
+
+.footer-nav-bar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.footer-logo{
+    width: 150px;
+    margin: 20px;;
+}
+
+.app-btn{
+    background-color: #d6cfcf;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px; ;
+    padding: 10px;
+}
+
+.black-icon{
+    color: black;
+}
+
+.but{
+    margin: 10px;
+}
