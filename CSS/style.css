@@ -14,8 +14,13 @@ a, a:hover {
 
 .logo2 {
     height: 100px;
+    margin-right: 10px;
 }
 
+
+.game{
+    width: 100%;
+}
 
 .game-name
 {
@@ -61,11 +66,7 @@ a, a:hover {
     text-decoration: none;
 }
 
-body {
-    min-width: 1500px;
-    padding: 0px;
-    margin: 0px;
-}
+
 
 .search {
     background-color: rgb(77, 73, 73);
@@ -94,14 +95,14 @@ body {
 }
 
 .footer-logo{
-    width: 150px;
-    margin: 20px;;
+    width: 100%;
+    margin: 10px;;
 }
 
 .app-btn{
     background-color: #d6cfcf;
     border-radius: 10px;
-    width: 200px;
+    width: 100%;
     height: 200px; ;
     padding: 10px;
 }
